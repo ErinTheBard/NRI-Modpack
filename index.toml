@@ -2147,7 +2147,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "5934060aed168eb17658f596971f92f8ebf89f8f5e750a479277ca6801631fc6"
+hash = "36a828ae63ac3773de72f0a3a5d334585638c9db2cd43706b7304f094b05e0f3"
 metafile = true
 
 [[files]]
@@ -2183,6 +2183,11 @@ metafile = true
 [[files]]
 file = "mods/framework.pw.toml"
 hash = "9e2175476f720e0b2d21b28e91873cecf5555648e2137310e1b7cf98f6b98ab8"
+metafile = true
+
+[[files]]
+file = "mods/ftb-chunks-compatibility-mod.pw.toml"
+hash = "78d30294130d53db3b1de3bc1d97b8c55e32744ec26fc10a676ce0b7835e010d"
 metafile = true
 
 [[files]]
@@ -2252,7 +2257,7 @@ metafile = true
 
 [[files]]
 file = "mods/im-fast.pw.toml"
-hash = "4004ad042253b8e95a8e81db307725ba537eb1065cef4762ba2ee4cf946bd747"
+hash = "4dc83c085535269866b53b97a8482f4cb6badb0ab58f27a3be20132f69b0147f"
 metafile = true
 
 [[files]]
@@ -2566,6 +2571,11 @@ hash = "80cc9e9ba6f53fa0a165c8ceb24d295eac471ecbb64f2b7711f1751264d96c1f"
 metafile = true
 
 [[files]]
+file = "mods/the-aethers-delight.pw.toml"
+hash = "9e42e106415a4fe07bdfe23d1470c81cb924c03c95ead8fd9d1216701ab67b12"
+metafile = true
+
+[[files]]
 file = "mods/the-bumblezone-forge.pw.toml"
 hash = "3f5fb75accbb1fff5569b6f06df6865020622fdc35d2dc1e4c5283e3d8835817"
 metafile = true
@@ -2607,7 +2617,7 @@ metafile = true
 
 [[files]]
 file = "mods/undergarden-delight.pw.toml"
-hash = "bccccaa6040d00825537b3a7185917b7bc9e41060a82c9993546f12cce3d7f82"
+hash = "8c30edaf8bab3d3b93e437e9a2628e0caf5cc48371a63dd05efc3661b2f2acb0"
 metafile = true
 
 [[files]]
