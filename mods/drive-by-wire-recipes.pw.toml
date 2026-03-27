@@ -1,0 +1,13 @@
+name = "Drive-By-Wire: Recipes"
+filename = "drivebywire_recipes-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6a4a2e5f22ffade234a7de578670e5090cb19e4e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7268033
+project-id = 1337156
